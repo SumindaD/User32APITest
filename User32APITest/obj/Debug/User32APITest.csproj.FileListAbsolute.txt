@@ -1,0 +1,10 @@
+D:\Code\User32APITest\User32APITest\bin\Debug\User32APITest.exe.config
+D:\Code\User32APITest\User32APITest\bin\Debug\User32APITest.exe
+D:\Code\User32APITest\User32APITest\bin\Debug\User32APITest.pdb
+D:\Code\User32APITest\User32APITest\obj\Debug\User32APITest.csprojAssemblyReference.cache
+D:\Code\User32APITest\User32APITest\obj\Debug\User32APITest.csproj.CoreCompileInputs.cache
+D:\Code\User32APITest\User32APITest\obj\Debug\User32APITest.exe
+D:\Code\User32APITest\User32APITest\obj\Debug\User32APITest.pdb
+D:\Code\User32APITest\User32APITest\bin\Debug\WindowsInput.dll
+D:\Code\User32APITest\User32APITest\bin\Debug\WindowsInput.xml
+D:\Code\User32APITest\User32APITest\obj\Debug\User32APITest.csproj.CopyComplete
